@@ -1,6 +1,6 @@
 /* eslint-disable react/jsx-key */
 import Head from 'next/head'
-import Header from '../components/header'
+import Header from '../components/Header'
 import Banner from '../components/Banner'
 import axios from 'axios';
 import https from 'https';
