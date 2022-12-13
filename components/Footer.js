@@ -30,11 +30,11 @@ function Footer(){
 
             <div className="space-y-4 text-xs text-gray-800">
                 <h5 className="font-bold">    Support  </h5>
-                <p> How airbnb works    </p>
-                <p> Newsroom    </p>
-                <p> Investors   </p>
-                <p> Airbnb plus </p>
-                <p> Airbnb luxe </p>
+                <p> Help Center    </p>
+                <p> Trust & Safety    </p>
+                <p> Say Hi youtube   </p>
+                <p> Christmas </p>
+                <p> Winner </p>
             </div>
         </div>
 
