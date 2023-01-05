@@ -76,8 +76,10 @@ function Header({placeholder}){
                 <p className="hidden md:inline cursor-pointer"> Become a host </p>
                 <GlobeAltIcon className="h-6 cursor-pointer"/>
 
-                <div className="flex items-center space-x-2 border-2 p-2 rounded-full"> 
-                    <MenuIcon className="h-6"/>
+                <div className="flex items-center justify-center space-x-2 border-2 p-2 rounded-full bg-[#ff5a60] text-white cursor-pointer hover:shadow-lg hover:bg-[#f9787c]"> 
+                    <p>
+                        Sign in
+                    </p>
                     <UserCircleIcon className="h-6"/>
                 </div>
             </div>
